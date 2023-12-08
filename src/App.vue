@@ -113,6 +113,10 @@
           <td>Pull (changes)</td>
         </tr>
         <tr>
+          <td>Haleanmodning</td>
+          <td>Pull Request</td>
+        </tr>
+        <tr>
           <td>Hjemmedatamat</td>
           <td>Personal Computer eller PC</td>
         </tr>
@@ -217,6 +221,10 @@
           <td>Merge</td>
         </tr>
         <tr>
+          <td>Fletteanmodning</td>
+          <td>Merge Request</td>
+        </tr>
+        <tr>
           <td>Sikkerhedskopi</td>
           <td>Backup</td>
         </tr>
@@ -307,6 +315,42 @@
         <tr>
           <td>Åbent programmel</td>
           <td>Open source software</td>
+        </tr>
+        <tr>
+          <td>Hente</td>
+          <td>Fetch</td>
+        </tr>
+        <tr>
+          <td>Forgrene</td>
+          <td>To Branch (git)</td>
+        </tr>
+        <tr>
+          <td>Fastlægge</td>
+          <td>To commit (git)</td>
+        </tr>
+        <tr>
+          <td>Genbasere</td>
+          <td>To rebase (git)</td>
+        </tr>
+        <tr>
+          <td>Kvase</td>
+          <td>To Squash (git)</td>
+        </tr>
+        <tr>
+          <td>Opmærke</td>
+          <td>Tag</td>
+        </tr>
+        <tr>
+          <td>Håndplukke</td>
+          <td>Cherry-pick</td>
+        </tr>
+        <tr>
+          <td>Tilrette</td>
+          <td>Amend</td>
+        </tr>
+        <tr>
+          <td>Klandre</td>
+          <td>Blame</td>
         </tr>
       </tbody>
     </table>
