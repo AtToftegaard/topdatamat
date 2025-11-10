@@ -1,346 +1,364 @@
-[
-  {
-    "dansk": "Afluser",
-    "engelsk": "Debugger"
-  },
-  {
-    "dansk": "Aflusning",
-    "engelsk": "Debugging"
-  },
-  {
-    "dansk": "Almen Seriel Bus (asb )",
-    "engelsk": "Universal Serial Bus eller USB"
-  },
-  {
-    "dansk": "Arbejdslager",
-    "engelsk": "Random Access Memory eller RAM"
-  },
-  {
-    "dansk": "Blanktegn",
-    "engelsk": "Whitespace"
-  },
-  {
-    "dansk": "Borddatamat",
-    "engelsk": "Desktop computer"
-  },
-  {
-    "dansk": "Brandmur",
-    "engelsk": "Firewall"
-  },
-  {
-    "dansk": "Bundstreg",
-    "engelsk": "Underscore"
-  },
-  {
-    "dansk": "Central beregneenhed",
-    "engelsk": "Central Processing Unit eller CPU"
-  },
-  {
-    "dansk": "Central beregningsenhed",
-    "engelsk": "Central Processing Unit eller CPU"
-  },
-  {
-    "dansk": "Datafon",
-    "engelsk": "Smartphone"
-  },
-  {
-    "dansk": "Datalager",
-    "engelsk": "Storage"
-  },
-  {
-    "dansk": "Datamat",
-    "engelsk": "Computer"
-  },
-  {
-    "dansk": "Datamatspil",
-    "engelsk": "Video game eller Computer game"
-  },
-  {
-    "dansk": "Det Verdensomspændende Spindel",
-    "engelsk": "World Wide Web, WWW eller Web"
-  },
-  {
-    "dansk": "E-brev",
-    "engelsk": "E-mail"
-  },
-  {
-    "dansk": "Elektronisk Databehandling (edb )",
-    "engelsk": "Information Technology"
-  },
-  {
-    "dansk": "Elektropost",
-    "engelsk": "E-mail"
-  },
-  {
-    "dansk": "Fastpladelager",
-    "engelsk": "Harddisk"
-  },
-  {
-    "dansk": "Flet",
-    "engelsk": "Merge"
-  },
-  {
-    "dansk": "Flugttast",
-    "engelsk": "Escape key"
-  },
-  {
-    "dansk": "Frit programmel",
-    "engelsk": "Free software"
-  },
-  {
-    "dansk": "Gennemtvinge",
-    "engelsk": "Force (changes)"
-  },
-  {
-    "dansk": "Greltegn",
-    "engelsk": "Majuscule, Capital letter eller Uppercase letter"
-  },
-  {
-    "dansk": "Gullashetiket",
-    "engelsk": "Hashtag"
-  },
-  {
-    "dansk": "Hal",
-    "engelsk": "Pull (changes)"
-  },
-  {
-    "dansk": "Haleanmodning",
-    "engelsk": "Pull Request"
-  },
-  {
-    "dansk": "Hjemmedatamat",
-    "engelsk": "Personal Computer eller PC"
-  },
-  {
-    "dansk": "Hjemmeside",
-    "engelsk": "Web site"
-  },
-  {
-    "dansk": "Hviletilstand",
-    "engelsk": "Stand by mode"
-  },
-  {
-    "dansk": "Kartotek",
-    "engelsk": "Database"
-  },
-  {
-    "dansk": "Kildetekst",
-    "engelsk": "Source code"
-  },
-  {
-    "dansk": "Klejntegn",
-    "engelsk": "Minuscule eller Lowercase letter"
-  },
-  {
-    "dansk": "Kodegrube",
-    "engelsk": "Source repository"
-  },
-  {
-    "dansk": "Kontaktskærm",
-    "engelsk": "Touch screen"
-  },
-  {
-    "dansk": "Kvidder",
-    "engelsk": "Tweet"
-  },
-  {
-    "dansk": "Kvidre",
-    "engelsk": "Tweet"
-  },
-  {
-    "dansk": "Linjeskriver",
-    "engelsk": "Printer"
-  },
-  {
-    "dansk": "Lukket programmel",
-    "engelsk": "Closed source software"
-  },
-  {
-    "dansk": "Lus",
-    "engelsk": "Bug"
-  },
-  {
-    "dansk": "Løbsk undtagelse",
-    "engelsk": "Unhandled exception"
-  },
-  {
-    "dansk": "Løsen",
-    "engelsk": "Password"
-  },
-  {
-    "dansk": "Mappedatamat",
-    "engelsk": "Laptop"
-  },
-  {
-    "dansk": "Maskinel",
-    "engelsk": "Hardware"
-  },
-  {
-    "dansk": "Navnerum",
-    "engelsk": "Namespace"
-  },
-  {
-    "dansk": "Netværkstilsluttet datalager",
-    "engelsk": "Network-attached storage"
-  },
-  {
-    "dansk": "Oversætter",
-    "engelsk": "Compiler"
-  },
-  {
-    "dansk": "Prikkode",
-    "engelsk": "Quick Response Code eller QR Code"
-  },
-  {
-    "dansk": "Programmel",
-    "engelsk": "Software"
-  },
-  {
-    "dansk": "Proprietært programmel",
-    "engelsk": "Proprietary software"
-  },
-  {
-    "dansk": "Puf",
-    "engelsk": "Push (changes)"
-  },
-  {
-    "dansk": "Råtekst",
-    "engelsk": "Plain text"
-  },
-  {
-    "dansk": "Sammenflet(ning)",
-    "engelsk": "Merge"
-  },
-  {
-    "dansk": "Fletteanmodning",
-    "engelsk": "Merge Request"
-  },
-  {
-    "dansk": "Sikkerhedskopi",
-    "engelsk": "Backup"
-  },
-  {
-    "dansk": "Skalprogram",
-    "engelsk": "Shell script"
-  },
-  {
-    "dansk": "Skiftelås",
-    "engelsk": "Caps lock"
-  },
-  {
-    "dansk": "Skiftenøgle",
-    "engelsk": "Shift key"
-  },
-  {
-    "dansk": "Skiftetast",
-    "engelsk": "Shift key"
-  },
-  {
-    "dansk": "Skyen",
-    "engelsk": "The cloud"
-  },
-  {
-    "dansk": "Skærmbillede",
-    "engelsk": "Screenshot"
-  },
-  {
-    "dansk": "Spildopsamler",
-    "engelsk": "Garbage collector"
-  },
-  {
-    "dansk": "Spindellæser",
-    "engelsk": "Web browser"
-  },
-  {
-    "dansk": "Spindelsidefortolker",
-    "engelsk": "Web browser engine"
-  },
-  {
-    "dansk": "Systemskal",
-    "engelsk": "Command shell eller Shell"
-  },
-  {
-    "dansk": "Tabulator",
-    "engelsk": "Tab"
-  },
-  {
-    "dansk": "Tastatur",
-    "engelsk": "Keyboard"
-  },
-  {
-    "dansk": "Tavledatamat",
-    "engelsk": "Tablet"
-  },
-  {
-    "dansk": "Tekstbehandlingsprogram",
-    "engelsk": "Text editor eller Editor"
-  },
-  {
-    "dansk": "Tekstredigeringsværktøj",
-    "engelsk": "Text editor eller Editor"
-  },
-  {
-    "dansk": "Topdatamat",
-    "engelsk": "Supercomputer"
-  },
-  {
-    "dansk": "Tving",
-    "engelsk": "Force (changes)"
-  },
-  {
-    "dansk": "Udgave",
-    "engelsk": "Version"
-  },
-  {
-    "dansk": "Udnytte",
-    "engelsk": "Exploit"
-  },
-  {
-    "dansk": "Virkefelt",
-    "engelsk": "Scope"
-  },
-  {
-    "dansk": "Vognretur",
-    "engelsk": "Carriage return"
-  },
-  {
-    "dansk": "Åbent programmel",
-    "engelsk": "Open source software"
-  },
-  {
-    "dansk": "Hente",
-    "engelsk": "Fetch"
-  },
-  {
-    "dansk": "Forgrene",
-    "engelsk": "To Branch (git)"
-  },
-  {
-    "dansk": "Fastlægge",
-    "engelsk": "To commit (git)"
-  },
-  {
-    "dansk": "Genbasere",
-    "engelsk": "To rebase (git)"
-  },
-  {
-    "dansk": "Kvase",
-    "engelsk": "To Squash (git)"
-  },
-  {
-    "dansk": "Opmærke",
-    "engelsk": "Tag"
-  },
-  {
-    "dansk": "Håndplukke",
-    "engelsk": "Cherry-pick"
-  },
-  {
-    "dansk": "Tilrette",
-    "engelsk": "Amend"
-  },
-  {
-    "dansk": "Klandre",
-    "engelsk": "Blame"
-  }
-]
+{
+  "Git og Versionsstyring": [
+    {
+      "dansk": "Forgrene",
+      "engelsk": "To Branch"
+    },
+    {
+      "dansk": "Fastlægge",
+      "engelsk": "To commit"
+    },
+    {
+      "dansk": "Flet",
+      "engelsk": "Merge"
+    },
+    {
+      "dansk": "Sammenflet(ning)",
+      "engelsk": "Merge"
+    },
+    {
+      "dansk": "Fletteanmodning",
+      "engelsk": "Merge Request"
+    },
+    {
+      "dansk": "Haleanmodning",
+      "engelsk": "Pull Request"
+    },
+    {
+      "dansk": "Hal",
+      "engelsk": "Pull (changes)"
+    },
+    {
+      "dansk": "Puf",
+      "engelsk": "Push (changes)"
+    },
+    {
+      "dansk": "Hente",
+      "engelsk": "Fetch"
+    },
+    {
+      "dansk": "Genbasere",
+      "engelsk": "To rebase"
+    },
+    {
+      "dansk": "Kvase",
+      "engelsk": "To Squash"
+    },
+    {
+      "dansk": "Opmærke",
+      "engelsk": "Tag"
+    },
+    {
+      "dansk": "Håndplukke",
+      "engelsk": "Cherry-pick"
+    },
+    {
+      "dansk": "Tilrette",
+      "engelsk": "Amend"
+    },
+    {
+      "dansk": "Klandre",
+      "engelsk": "Blame"
+    },
+    {
+      "dansk": "Gennemtvinge",
+      "engelsk": "Force (changes)"
+    },
+    {
+      "dansk": "Tving",
+      "engelsk": "Force (changes)"
+    },
+    {
+      "dansk": "Kodegrube",
+      "engelsk": "Source repository"
+    }
+  ],
+  "Maskinel (Hardware)": [
+    {
+      "dansk": "Datamat",
+      "engelsk": "Computer"
+    },
+    {
+      "dansk": "Borddatamat",
+      "engelsk": "Desktop computer"
+    },
+    {
+      "dansk": "Hjemmedatamat",
+      "engelsk": "Personal Computer eller PC"
+    },
+    {
+      "dansk": "Mappedatamat",
+      "engelsk": "Laptop"
+    },
+    {
+      "dansk": "Tavledatamat",
+      "engelsk": "Tablet"
+    },
+    {
+      "dansk": "Topdatamat",
+      "engelsk": "Supercomputer"
+    },
+    {
+      "dansk": "Datafon",
+      "engelsk": "Smartphone"
+    },
+    {
+      "dansk": "Central beregneenhed",
+      "engelsk": "Central Processing Unit eller CPU"
+    },
+    {
+      "dansk": "Central beregningsenhed",
+      "engelsk": "Central Processing Unit eller CPU"
+    },
+    {
+      "dansk": "Arbejdslager",
+      "engelsk": "Random Access Memory eller RAM"
+    },
+    {
+      "dansk": "Datalager",
+      "engelsk": "Storage"
+    },
+    {
+      "dansk": "Fastpladelager",
+      "engelsk": "Harddisk"
+    },
+    {
+      "dansk": "Netværkstilsluttet datalager",
+      "engelsk": "Network-attached storage"
+    },
+    {
+      "dansk": "Maskinel",
+      "engelsk": "Hardware"
+    },
+    {
+      "dansk": "Tastatur",
+      "engelsk": "Keyboard"
+    },
+    {
+      "dansk": "Kontaktskærm",
+      "engelsk": "Touch screen"
+    },
+    {
+      "dansk": "Linjeskriver",
+      "engelsk": "Printer"
+    },
+    {
+      "dansk": "Almen Seriel Bus (asb )",
+      "engelsk": "Universal Serial Bus eller USB"
+    }
+  ],
+  "Programmel (Software)": [
+    {
+      "dansk": "Programmel",
+      "engelsk": "Software"
+    },
+    {
+      "dansk": "Frit programmel",
+      "engelsk": "Free software"
+    },
+    {
+      "dansk": "Åbent programmel",
+      "engelsk": "Open source software"
+    },
+    {
+      "dansk": "Lukket programmel",
+      "engelsk": "Closed source software"
+    },
+    {
+      "dansk": "Proprietært programmel",
+      "engelsk": "Proprietary software"
+    },
+    {
+      "dansk": "Datamatspil",
+      "engelsk": "Video game eller Computer game"
+    },
+    {
+      "dansk": "Tekstbehandlingsprogram",
+      "engelsk": "Text editor eller Editor"
+    },
+    {
+      "dansk": "Tekstredigeringsværktøj",
+      "engelsk": "Text editor eller Editor"
+    },
+    {
+      "dansk": "Skalprogram",
+      "engelsk": "Shell script"
+    },
+    {
+      "dansk": "Systemskal",
+      "engelsk": "Command shell eller Shell"
+    }
+  ],
+  "Programmering": [
+    {
+      "dansk": "Kildetekst",
+      "engelsk": "Source code"
+    },
+    {
+      "dansk": "Oversætter",
+      "engelsk": "Compiler"
+    },
+    {
+      "dansk": "Afluser",
+      "engelsk": "Debugger"
+    },
+    {
+      "dansk": "Aflusning",
+      "engelsk": "Debugging"
+    },
+    {
+      "dansk": "Lus",
+      "engelsk": "Bug"
+    },
+    {
+      "dansk": "Løbsk undtagelse",
+      "engelsk": "Unhandled exception"
+    },
+    {
+      "dansk": "Spildopsamler",
+      "engelsk": "Garbage collector"
+    },
+    {
+      "dansk": "Navnerum",
+      "engelsk": "Namespace"
+    },
+    {
+      "dansk": "Virkefelt",
+      "engelsk": "Scope"
+    },
+    {
+      "dansk": "Udnytte",
+      "engelsk": "Exploit"
+    }
+  ],
+  "Web og Internet": [
+    {
+      "dansk": "Det Verdensomspændende Spindel",
+      "engelsk": "World Wide Web, WWW eller Web"
+    },
+    {
+      "dansk": "Hjemmeside",
+      "engelsk": "Web site"
+    },
+    {
+      "dansk": "Spindellæser",
+      "engelsk": "Web browser"
+    },
+    {
+      "dansk": "Spindelsidefortolker",
+      "engelsk": "Web browser engine"
+    },
+    {
+      "dansk": "E-brev",
+      "engelsk": "E-mail"
+    },
+    {
+      "dansk": "Elektropost",
+      "engelsk": "E-mail"
+    },
+    {
+      "dansk": "Kvidder",
+      "engelsk": "Tweet"
+    },
+    {
+      "dansk": "Kvidre",
+      "engelsk": "Tweet"
+    },
+    {
+      "dansk": "Gullashetiket",
+      "engelsk": "Hashtag"
+    },
+    {
+      "dansk": "Skyen",
+      "engelsk": "The cloud"
+    }
+  ],
+  "Sikkerhed": [
+    {
+      "dansk": "Brandmur",
+      "engelsk": "Firewall"
+    },
+    {
+      "dansk": "Løsen",
+      "engelsk": "Password"
+    },
+    {
+      "dansk": "Sikkerhedskopi",
+      "engelsk": "Backup"
+    }
+  ],
+  "Data og Filer": [
+    {
+      "dansk": "Kartotek",
+      "engelsk": "Database"
+    },
+    {
+      "dansk": "Råtekst",
+      "engelsk": "Plain text"
+    },
+    {
+      "dansk": "Udgave",
+      "engelsk": "Version"
+    }
+  ],
+  "Tastatur og Tegn": [
+    {
+      "dansk": "Bundstreg",
+      "engelsk": "Underscore"
+    },
+    {
+      "dansk": "Blanktegn",
+      "engelsk": "Whitespace"
+    },
+    {
+      "dansk": "Greltegn",
+      "engelsk": "Majuscule, Capital letter eller Uppercase letter"
+    },
+    {
+      "dansk": "Klejntegn",
+      "engelsk": "Minuscule eller Lowercase letter"
+    },
+    {
+      "dansk": "Flugttast",
+      "engelsk": "Escape key"
+    },
+    {
+      "dansk": "Skiftelås",
+      "engelsk": "Caps lock"
+    },
+    {
+      "dansk": "Skiftenøgle",
+      "engelsk": "Shift key"
+    },
+    {
+      "dansk": "Skiftetast",
+      "engelsk": "Shift key"
+    },
+    {
+      "dansk": "Tabulator",
+      "engelsk": "Tab"
+    },
+    {
+      "dansk": "Vognretur",
+      "engelsk": "Carriage return"
+    }
+  ],
+  "Diverse": [
+    {
+      "dansk": "Elektronisk Databehandling (edb )",
+      "engelsk": "Information Technology"
+    },
+    {
+      "dansk": "Hviletilstand",
+      "engelsk": "Stand by mode"
+    },
+    {
+      "dansk": "Prikkode",
+      "engelsk": "Quick Response Code eller QR Code"
+    },
+    {
+      "dansk": "Skærmbillede",
+      "engelsk": "Screenshot"
+    }
+  ]
+}
