@@ -1,13 +1,19 @@
 .center {
-    max-width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
     padding: 20px;
-    column-count: 3;
-    column-gap: 30px;
 }
 
 table {
     width: 100%;
-    break-inside: avoid;
+    margin: 0 auto;
+    column-count: 3;
+    column-gap: 30px;
+}
+
+tbody {
+    column-count: 3;
+    column-gap: 30px;
 }
 
 thead {
@@ -32,13 +38,13 @@ tr {
 }
 
 @media (max-width: 1200px) {
-    .center {
+    tbody {
         column-count: 2;
     }
 }
 
 @media (max-width: 768px) {
-    .center {
+    tbody {
         column-count: 1;
     }
 }
