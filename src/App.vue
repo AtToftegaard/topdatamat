@@ -11,22 +11,19 @@
       </a>
     </div>
     
+    <div class="language-header">
+      <div class="lang-col">Dansk</div>
+      <div class="lang-col">Engelsk</div>
+    </div>
+    
     <div v-for="(words, category) in dictionary" :key="category" class="category-section">
       <h2 class="category-title">{{ category }}</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Dansk</th>
-            <th>Engelsk</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="(word, index) in words" :key="index">
-            <td>{{ word.dansk }}</td>
-            <td>{{ word.engelsk }}</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="words-list">
+        <div v-for="(word, index) in words" :key="index" class="word-row">
+          <div class="word-cell">{{ word.dansk }}</div>
+          <div class="word-cell">{{ word.engelsk }}</div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
