@@ -1,4 +1,44 @@
 .center {
-    display: flex;
-    justify-content: center;
+    max-width: 100%;
+    padding: 20px;
+    column-count: 3;
+    column-gap: 30px;
+}
+
+table {
+    width: 100%;
+    break-inside: avoid;
+}
+
+thead {
+    position: sticky;
+    top: 0;
+    background: white;
+}
+
+th {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 2px solid #333;
+}
+
+td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr {
+    break-inside: avoid;
+}
+
+@media (max-width: 1200px) {
+    .center {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 768px) {
+    .center {
+        column-count: 1;
+    }
 }
