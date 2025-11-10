@@ -1,5 +1,15 @@
 <template>
   <div class="center">
+    <div class="header">
+      <h1>EDB Ordbog</h1>
+      <a 
+        href="https://github.com/AtToftegaard/topdatamat/edit/main/src/assets/dictionary.json" 
+        target="_blank"
+        class="contribute-btn"
+      >
+        Foreslå nye ord
+      </a>
+    </div>
     <table>
       <thead>
         <tr>
