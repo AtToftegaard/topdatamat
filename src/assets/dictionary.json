@@ -127,7 +127,7 @@
       "engelsk": "Network-attached storage"
     },
     {
-      "dansk": "Maskinel",
+      "dansk": "Maskinel/Materiel",
       "engelsk": "Hardware"
     },
     {
@@ -135,7 +135,7 @@
       "engelsk": "Keyboard"
     },
     {
-      "dansk": "Kontaktskærm",
+      "dansk": "Kontaktskærm/Berøringsskærm",
       "engelsk": "Touch screen"
     },
     {
@@ -213,6 +213,10 @@
     {
       "dansk": "Løbsk undtagelse",
       "engelsk": "Unhandled exception"
+    },
+    {
+      "dansk": "Satskørsel",
+      "engelsk": "Batch processing"
     },
     {
       "dansk": "Spildopsamler",
