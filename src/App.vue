@@ -3,7 +3,7 @@
     <header class="header">
       <h1>EDB Ordbog</h1>
       <a 
-        href="https://github.com/AtToftegaard/edb-ordbog/edit/main/src/assets/dictionary.json" 
+        href="https://github.com/AtToftegaard/topdatamat/blob/main/src/assets/dictionary.json" 
         target="_blank"
         rel="noopener noreferrer"
         class="contribute-btn"
