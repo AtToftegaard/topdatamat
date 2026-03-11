@@ -1,7 +1,10 @@
 <template>
   <div class="center">
     <header class="header">
-      <h1>EDB Ordbog</h1>
+      <div class="title-block">
+        <h1>EDB Ordbog</h1>
+        <p class="subtitle">Dansk-engelsk it-ordbog for programmering, software og hardware</p>
+      </div>
       <a 
         href="https://github.com/AtToftegaard/topdatamat/blob/main/src/assets/dictionary.json" 
         target="_blank"
