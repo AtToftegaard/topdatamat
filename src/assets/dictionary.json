@@ -1,7 +1,7 @@
 {
   "Maskinel (Hardware)": [
     {
-      "dansk": "Datamat, Elektronhjerne",
+      "dansk": "Datamat, Elektronhjerne, Matematikmaskine",
       "engelsk": "Computer"
     },
     {
@@ -101,10 +101,6 @@
     {
       "dansk": "Maskinlæring",
       "engelsk": "Machine learning"
-    },
-    {
-      "dansk": "Kunstig intelligens",
-      "engelsk": "Artificial intelligence"
     },
     {
       "dansk": "Datamatspil, Videospil",
