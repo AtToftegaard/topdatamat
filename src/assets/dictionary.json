@@ -1,81 +1,7 @@
 {
-  "Git og Versionsstyring": [
-    {
-      "dansk": "Forgrene",
-      "engelsk": "To Branch"
-    },
-    {
-      "dansk": "Fastlægge",
-      "engelsk": "To commit"
-    },
-    {
-      "dansk": "Flet",
-      "engelsk": "Merge"
-    },
-    {
-      "dansk": "Sammenflet(ning)",
-      "engelsk": "Merge"
-    },
-    {
-      "dansk": "Fletteanmodning",
-      "engelsk": "Merge Request"
-    },
-    {
-      "dansk": "Haleanmodning",
-      "engelsk": "Pull Request"
-    },
-    {
-      "dansk": "Hal",
-      "engelsk": "Pull (changes)"
-    },
-    {
-      "dansk": "Puf",
-      "engelsk": "Push (changes)"
-    },
-    {
-      "dansk": "Hente",
-      "engelsk": "Fetch"
-    },
-    {
-      "dansk": "Genbasere",
-      "engelsk": "To rebase"
-    },
-    {
-      "dansk": "Kvase",
-      "engelsk": "To Squash"
-    },
-    {
-      "dansk": "Opmærke",
-      "engelsk": "Tag"
-    },
-    {
-      "dansk": "Håndplukke",
-      "engelsk": "Cherry-pick"
-    },
-    {
-      "dansk": "Tilrette",
-      "engelsk": "Amend"
-    },
-    {
-      "dansk": "Klandre",
-      "engelsk": "Blame"
-    },
-    {
-      "dansk": "Gennemtvinge",
-      "engelsk": "Force (changes)"
-    },
-    {
-      "dansk": "Tving",
-      "engelsk": "Force (changes)"
-    },
-    {
-      "dansk": "Kodegrube",
-      "engelsk": "Source repository"
-    }
-  ],
   "Maskinel (Hardware)": [
     {
-      "dansk": "Datamat",
+      "dansk": "Datamat, Elektronhjerne",
       "engelsk": "Computer"
     },
     {
@@ -95,7 +21,7 @@
       "engelsk": "Tablet"
     },
     {
-      "dansk": "edb-ordbog",
+      "dansk": "Topdatamat",
       "engelsk": "Supercomputer"
     },
     {
@@ -107,16 +33,16 @@
       "engelsk": "Central Processing Unit eller CPU"
     },
     {
-      "dansk": "Central beregningsenhed",
-      "engelsk": "Central Processing Unit eller CPU"
-    },
-    {
       "dansk": "Arbejdslager",
       "engelsk": "Random Access Memory eller RAM"
     },
     {
       "dansk": "Datalager",
       "engelsk": "Storage"
+    },
+    {
+      "dansk": "Tromlelager",
+      "engelsk": "Drum memory"
     },
     {
       "dansk": "Fastpladelager",
@@ -143,7 +69,7 @@
       "engelsk": "Printer"
     },
     {
-      "dansk": "Almen Seriel Bus (asb )",
+      "dansk": "Almen Seriel Bus (asb)",
       "engelsk": "Universal Serial Bus eller USB"
     }
   ],
@@ -169,7 +95,19 @@
       "engelsk": "Proprietary software"
     },
     {
-      "dansk": "Datamatspil",
+      "dansk": "Kunstig intelligens",
+      "engelsk": "Artificial intelligence"
+    },
+    {
+      "dansk": "Maskinlæring",
+      "engelsk": "Machine learning"
+    },
+    {
+      "dansk": "Kunstig intelligens",
+      "engelsk": "Artificial intelligence"
+    },
+    {
+      "dansk": "Datamatspil, Videospil",
       "engelsk": "Video game eller Computer game"
     },
     {
@@ -185,7 +123,7 @@
       "engelsk": "Shell script"
     },
     {
-      "dansk": "Systemskal",
+      "dansk": "Systemskal, Kommandofortolker",
       "engelsk": "Command shell eller Shell"
     }
   ],
@@ -277,6 +215,80 @@
       "engelsk": "The cloud"
     }
   ],
+  "Git og Versionsstyring": [
+    {
+      "dansk": "Forgrene",
+      "engelsk": "To Branch"
+    },
+    {
+      "dansk": "Fastlægge",
+      "engelsk": "To commit"
+    },
+    {
+      "dansk": "Flet",
+      "engelsk": "Merge"
+    },
+    {
+      "dansk": "Sammenflet(ning)",
+      "engelsk": "Merge"
+    },
+    {
+      "dansk": "Fletteanmodning",
+      "engelsk": "Merge Request"
+    },
+    {
+      "dansk": "Haleanmodning",
+      "engelsk": "Pull Request"
+    },
+    {
+      "dansk": "Hal",
+      "engelsk": "Pull (changes)"
+    },
+    {
+      "dansk": "Puf",
+      "engelsk": "Push (changes)"
+    },
+    {
+      "dansk": "Hente",
+      "engelsk": "Fetch"
+    },
+    {
+      "dansk": "Genbasere",
+      "engelsk": "To rebase"
+    },
+    {
+      "dansk": "Kvase",
+      "engelsk": "To Squash"
+    },
+    {
+      "dansk": "Opmærke",
+      "engelsk": "Tag"
+    },
+    {
+      "dansk": "Håndplukke",
+      "engelsk": "Cherry-pick"
+    },
+    {
+      "dansk": "Tilrette",
+      "engelsk": "Amend"
+    },
+    {
+      "dansk": "Klandre",
+      "engelsk": "Blame"
+    },
+    {
+      "dansk": "Gennemtvinge",
+      "engelsk": "Force (changes)"
+    },
+    {
+      "dansk": "Tving",
+      "engelsk": "Force (changes)"
+    },
+    {
+      "dansk": "Kodegrube",
+      "engelsk": "Source repository"
+    }
+  ],
   "Sikkerhed": [
     {
       "dansk": "Brandmur",
@@ -349,7 +361,7 @@
   ],
   "Diverse": [
     {
-      "dansk": "Elektronisk Databehandling (edb )",
+      "dansk": "Elektronisk Databehandling (edb)",
       "engelsk": "Information Technology"
     },
     {
